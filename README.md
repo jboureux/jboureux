@@ -25,10 +25,12 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Symfony-rgb(20%2C%2020%2C%20150)?style=for-the-badge&logo=symfony&link=www.linkedin.com%2Fin%2Fjboureux)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jboureux&show_icons=true&locale=en&layout=compact&theme=material-palenight)
 ## Find me on the internet
-[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jboureux)
+[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jboureux)
 
 
 
